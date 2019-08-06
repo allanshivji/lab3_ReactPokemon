@@ -1,0 +1,41 @@
+.berryContainer{
+    text-align:center;
+    background-color:blue;
+    margin-top:50px;
+    border-radius:5px;
+    color:white;
+}
+
+.berryName{
+    padding-top: 20px;
+}
+
+.cherryIndDetail,.berryListHeader{
+
+    text-align:center;
+    color:blue;
+    margin-top:40px;
+
+}
+
+/* ul{
+    padding-bottom: 100px;
+    list-style-type: none !important;
+  
+}
+
+li{
+    float: left;  
+}
+
+li:last-child{
+    margin-bottom: 50px;
+}
+
+li h3{
+    display: block !important;
+    color: white;
+    text-align: center;
+    padding: 14px 76px;
+    text-decoration: none !important;
+} */

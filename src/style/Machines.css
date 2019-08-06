@@ -1,0 +1,17 @@
+.singleMachine{
+    margin-top:50px;
+    text-align: center;
+    color:blue;
+}
+
+table{
+    text-align: center;
+}
+
+.machineHeader{
+    /* margin-top:20px; */
+
+    text-align:center;
+    color:blue;
+    margin-top:40px;
+}

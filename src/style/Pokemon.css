@@ -1,0 +1,23 @@
+.contentPokemon{
+    text-align:center;
+    margin-top: 50px;
+    background-color: blue;
+    border-radius: 5px;
+    color:white;
+    
+}
+
+.pokemonName{
+    padding-top:20px;
+}
+
+ul{
+    list-style:none
+}
+
+.pokemonNameHeader{
+    text-align:center;
+    color:blue;
+    margin-top:40px;
+
+}
